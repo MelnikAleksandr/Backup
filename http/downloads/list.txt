@@ -1,0 +1,4 @@
+locate Metasploit;
+locate metasploit;
+locate THC Hydra;
+locate thc hydra;
